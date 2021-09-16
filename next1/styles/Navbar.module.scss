@@ -1,64 +1,54 @@
-@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@700&display=swap");
 
-.Navbar__2{
-    box-shadow: 0 2px 18px 0 rgb(129 162 182 / 20%);
-    display: flex;
-    box-sizing: border-box;
-    flex-direction: row;
-    align-items: center;
-    justify-content: space-between;
-    height: 72px;
-    padding: 0 48px;
-    background: #fff;
-    
-    .word__1{
-        color: #20303c;
-        font-weight: 500;
-        font-size: 16px;
-        line-height: 2;
-        
-    }
-    .btn__1{
-        border-radius: 21px;
-        width: 9rem;
-        font-weight: 300;
-        
-        
-}
-}
+.Navbar__2 {
+  box-shadow: 0 2px 18px 0 rgb(129 162 182 / 20%);
+  display: flex;
+  box-sizing: border-box;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  height: 72px;
+  padding: 0 48px;
+  background: #fff;
 
-.word__2{
-        
-    cursor: pointer;
-    padding: 0;
-    background: transparent;
-    font-size: 13px;
-    font-weight: 500;
+  .word__1 {
     color: #20303c;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 2;
+  }
+  .btn__1 {
+    border-radius: 21px;
+    width: 9rem;
+    font-weight: 300;
+  }
 }
-.iconnav__1{
-    color: #8a8a8a;
-    
+
+.word__2 {
+  cursor: pointer;
+  padding: 0;
+  background: transparent;
+  font-size: 13px;
+  font-weight: 500;
+  color: #20303c;
+}
+.iconnav__1 {
+  color: #8a8a8a;
 }
 /*-------navbar2-----*/
-.Navbar2__1{
-    margin-left: 5%;
-    margin-right: 5%;
-    .word2__1{
-        font-size: 34px;
-        line-height: normal;
-        letter-spacing: normal;
-        font-family: 'Cormorant Garamond', serif;
-        
-        
-    }
-    
+.Navbar2__1 {
+  margin-left: 5%;
+  margin-right: 5%;
+  .word2__1 {
+    font-size: 34px;
+    line-height: normal;
+    letter-spacing: normal;
+    font-family: "Cormorant Garamond", serif;
+  }
 }
-.navsearch__1{
-    border: 0;
-    
+.navsearch__1 {
+  border: 0;
 }
-.navsearch__2:hover{
-    border-bottom: 2px solid #BA9247;
-    
+.navsearch__2:hover {
+  border-bottom: 2px solid #ba9247;
 }

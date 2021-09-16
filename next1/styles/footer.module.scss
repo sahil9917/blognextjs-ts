@@ -1,32 +1,30 @@
-@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@400&display=swap");
 
-.footer__1{
-    background-color: black;
-    
+.footer__1 {
+  background-color: black;
 }
-.footsearch__1{
-    background-color: black;
-    height: 3.2rem;
-    border-radius: 0;
+.footsearch__1 {
+  background-color: black;
+  height: 3.2rem;
+  border-radius: 0;
 }
-.footsearch__2{
-    background-color: black;
-    border-radius: 0;
+.footsearch__2 {
+  background-color: black;
+  border-radius: 0;
 }
-.footsearch__2{
-    padding-left: 5rem;
-    padding-right: 5rem;
-
+.footsearch__2 {
+  padding-left: 5rem;
+  padding-right: 5rem;
 }
-.footsearch__2:hover{
-    background-color: #BA9247;
+.footsearch__2:hover {
+  background-color: #ba9247;
 }
-.footpara__1{
-    font-family: 'Cormorant Garamond', serif;
-    color: #FFFFFF;
+.footpara__1 {
+  font-family: "Cormorant Garamond", serif;
+  color: #ffffff;
 }
-.footpara__2{
-    font-family: 'Raleway', sans-serif;
-    color: #FFFFFF;
+.footpara__2 {
+  font-family: "Raleway", sans-serif;
+  color: #ffffff;
 }
